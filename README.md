@@ -13,21 +13,21 @@ ________________________________________
 ##  Course Contents | محتويات المقرر
 
 
-1.	Introduction to Operations Research
+#### 1.	Introduction to Operations Research
    
-3.	Formulation of Linear Programming Problem (LPP)
+#### 2.	Formulation of Linear Programming Problem (LPP)
    
-5.	Solving Linear Programming Models (Two Unknowns) — Graphical Method
+#### 3.	Solving Linear Programming Models (Two Unknowns) — Graphical Method
    
-7.	Simplex Method
+#### 4.	Simplex Method
    
-9.	Sensitivity Analysis
+#### 5.	Sensitivity Analysis
     
-11.	Transportation Model
+#### 6.	Transportation Model
     
-13.	Assignment Model
+#### 7.	Assignment Model
     
-15.	Network Analysis (PERT /CPM)
+#### 8.	Network Analysis (PERT /CPM)
 ________________________________________
 
 ##  🎥 Lectures | المحاضرات
@@ -37,12 +37,16 @@ ________________________________________
 #### https://drive.google.com/drive/u/0/folders/1c-A9ViHW_XxRhylcB4lVhJOBlcsjNc4W
 
 ________________________________________
-## 👩💻 About the Instructor
+### 👩💻 About the Instructor
 
-#### Leena Ahmed  Elsheikh 
+### Leena Ahmed  Elsheikh 
+
 #### •	MSc in Statistics | MBA
+
 #### •	Microsoft Certified Power BI Data Analyst — PL-300
+
 #### •	10+ years of university-level teaching in statistics and quantitative methods
+
 #### •	Data Analyst | Freelance Lecturer | Riyadh, Saudi Arabia
 
 ________________________________________
