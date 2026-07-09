@@ -39,7 +39,7 @@ ________________________________________
 ________________________________________
 ## 👩💻 About the Instructor
 
-#### Leena A. Elsheikh (لينة)
+#### Leena Ahmed  Elsheikh 
 #### •	MSc in Statistics | MBA
 #### •	Microsoft Certified Power BI Data Analyst — PL-300
 #### •	10+ years of university-level teaching in statistics and quantitative methods
