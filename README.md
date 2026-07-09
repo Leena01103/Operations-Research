@@ -6,6 +6,7 @@ Lecture materials (PDF slides & video recordings) for the Operations Research co
 ________________________________________
 ## 📖 What Is Operations Research? | ما هو بحوث العمليات؟
  Operations Research (OR) is a scientific and quantitative approach to decision-making that uses mathematical models, statistics, and optimization techniques to analyze complex systems and help in finding the best possible solution under given constraints.
+ 
  بحوث العمليات هو أسلوب علمي وكمّي لاتخاذ القرار، يعتمد على النماذج الرياضية والإحصاء وأساليب الأمثلية لتحليل الأنظمة المعقدة، والمساعدة في إيجاد أفضل حل ممكن في ظل مجموعة من القيود.
 ________________________________________
 ##  Course Contents | محتويات المقرر
