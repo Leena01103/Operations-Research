@@ -2,7 +2,8 @@
 
 An Introductory Course for Undergraduate Students
 Lecture materials (PDF slides & video recordings) for the Operations Research course, covering the core quantitative methods used in decision-making and optimization.
-مواد محاضرات مادة بحوث العمليات (Operations Research) — مقرر تمهيدي/مقدّمي لطلاب البكالوريوس، تغطي الأساليب الكمية الأساسية المستخدمة في اتخاذ القرار والأمثلية (Optimization).
+
+مقرر تمهيدي لطلاب البكالوريوس، يغطي الأساليب الكمية الأساسية المستخدمة في اتخاذ القرار والأمثلية (Optimization).
 ________________________________________
 ## 📖 What Is Operations Research? | ما هو بحوث العمليات؟
  Operations Research (OR) is a scientific and quantitative approach to decision-making that uses mathematical models, statistics, and optimization techniques to analyze complex systems and help in finding the best possible solution under given constraints.
