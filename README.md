@@ -30,7 +30,7 @@ ________________________________________
 ##  🎥 Lectures | المحاضرات
 #### Each lecture includes slides (PDF) and a recorded video, hosted on Google Drive.
  #### 	Lecture Title	Slides (PDF)	Video
-### https://drive.google.com/drive/u/0/folders/1c-A9ViHW_XxRhylcB4lVhJOBlcsjNc4W
+#### https://drive.google.com/drive/u/0/folders/1c-A9ViHW_XxRhylcB4lVhJOBlcsjNc4W
 
 ________________________________________
 ## 👩💻 About the Instructor
